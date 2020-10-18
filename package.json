@@ -1,0 +1,21 @@
+{
+  "name": "rest_api_vanilla_node",
+  "version": "1.0.0",
+  "description": "Made with tutorial [Vanilla Node.js REST API | No Framework](https://www.youtube.com/watch?v=_1xa8Bsho6A&t=4s)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MynameisArthur/Vanilla-Node.js-REST-API-No-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MynameisArthur/Vanilla-Node.js-REST-API-No-Framework/issues"
+  },
+  "homepage": "https://github.com/MynameisArthur/Vanilla-Node.js-REST-API-No-Framework#readme"
+}
